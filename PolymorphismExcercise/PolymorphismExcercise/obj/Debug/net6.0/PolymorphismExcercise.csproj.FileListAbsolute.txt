@@ -1,0 +1,15 @@
+C:\Users\alexc\Desktop\UdemyIntermediate\PolymorphismExcercise\PolymorphismExcercise\obj\Debug\net6.0\PolymorphismExcercise.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\UdemyIntermediate\PolymorphismExcercise\PolymorphismExcercise\obj\Debug\net6.0\PolymorphismExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\Desktop\UdemyIntermediate\PolymorphismExcercise\PolymorphismExcercise\obj\Debug\net6.0\PolymorphismExcercise.AssemblyInfoInputs.cache
+C:\Users\alexc\Desktop\UdemyIntermediate\PolymorphismExcercise\PolymorphismExcercise\obj\Debug\net6.0\PolymorphismExcercise.AssemblyInfo.cs
+C:\Users\alexc\Desktop\UdemyIntermediate\PolymorphismExcercise\PolymorphismExcercise\obj\Debug\net6.0\PolymorphismExcercise.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\UdemyIntermediate\PolymorphismExcercise\PolymorphismExcercise\bin\Debug\net6.0\PolymorphismExcercise.exe
+C:\Users\alexc\Desktop\UdemyIntermediate\PolymorphismExcercise\PolymorphismExcercise\bin\Debug\net6.0\PolymorphismExcercise.deps.json
+C:\Users\alexc\Desktop\UdemyIntermediate\PolymorphismExcercise\PolymorphismExcercise\bin\Debug\net6.0\PolymorphismExcercise.runtimeconfig.json
+C:\Users\alexc\Desktop\UdemyIntermediate\PolymorphismExcercise\PolymorphismExcercise\bin\Debug\net6.0\PolymorphismExcercise.dll
+C:\Users\alexc\Desktop\UdemyIntermediate\PolymorphismExcercise\PolymorphismExcercise\bin\Debug\net6.0\ref\PolymorphismExcercise.dll
+C:\Users\alexc\Desktop\UdemyIntermediate\PolymorphismExcercise\PolymorphismExcercise\bin\Debug\net6.0\PolymorphismExcercise.pdb
+C:\Users\alexc\Desktop\UdemyIntermediate\PolymorphismExcercise\PolymorphismExcercise\obj\Debug\net6.0\PolymorphismExcercise.dll
+C:\Users\alexc\Desktop\UdemyIntermediate\PolymorphismExcercise\PolymorphismExcercise\obj\Debug\net6.0\ref\PolymorphismExcercise.dll
+C:\Users\alexc\Desktop\UdemyIntermediate\PolymorphismExcercise\PolymorphismExcercise\obj\Debug\net6.0\PolymorphismExcercise.pdb
+C:\Users\alexc\Desktop\UdemyIntermediate\PolymorphismExcercise\PolymorphismExcercise\obj\Debug\net6.0\PolymorphismExcercise.genruntimeconfig.cache

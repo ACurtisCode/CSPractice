@@ -1,0 +1,14 @@
+C:\Users\alexc\Desktop\CSharpIntermediate\Udemy Excersize 2\StackExcercise\StackExcercise\bin\Debug\net6.0\StackExcercise.exe
+C:\Users\alexc\Desktop\CSharpIntermediate\Udemy Excersize 2\StackExcercise\StackExcercise\bin\Debug\net6.0\StackExcercise.deps.json
+C:\Users\alexc\Desktop\CSharpIntermediate\Udemy Excersize 2\StackExcercise\StackExcercise\bin\Debug\net6.0\StackExcercise.runtimeconfig.json
+C:\Users\alexc\Desktop\CSharpIntermediate\Udemy Excersize 2\StackExcercise\StackExcercise\bin\Debug\net6.0\StackExcercise.dll
+C:\Users\alexc\Desktop\CSharpIntermediate\Udemy Excersize 2\StackExcercise\StackExcercise\bin\Debug\net6.0\ref\StackExcercise.dll
+C:\Users\alexc\Desktop\CSharpIntermediate\Udemy Excersize 2\StackExcercise\StackExcercise\bin\Debug\net6.0\StackExcercise.pdb
+C:\Users\alexc\Desktop\CSharpIntermediate\Udemy Excersize 2\StackExcercise\StackExcercise\obj\Debug\net6.0\StackExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\Desktop\CSharpIntermediate\Udemy Excersize 2\StackExcercise\StackExcercise\obj\Debug\net6.0\StackExcercise.AssemblyInfoInputs.cache
+C:\Users\alexc\Desktop\CSharpIntermediate\Udemy Excersize 2\StackExcercise\StackExcercise\obj\Debug\net6.0\StackExcercise.AssemblyInfo.cs
+C:\Users\alexc\Desktop\CSharpIntermediate\Udemy Excersize 2\StackExcercise\StackExcercise\obj\Debug\net6.0\StackExcercise.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\CSharpIntermediate\Udemy Excersize 2\StackExcercise\StackExcercise\obj\Debug\net6.0\StackExcercise.dll
+C:\Users\alexc\Desktop\CSharpIntermediate\Udemy Excersize 2\StackExcercise\StackExcercise\obj\Debug\net6.0\ref\StackExcercise.dll
+C:\Users\alexc\Desktop\CSharpIntermediate\Udemy Excersize 2\StackExcercise\StackExcercise\obj\Debug\net6.0\StackExcercise.pdb
+C:\Users\alexc\Desktop\CSharpIntermediate\Udemy Excersize 2\StackExcercise\StackExcercise\obj\Debug\net6.0\StackExcercise.genruntimeconfig.cache
